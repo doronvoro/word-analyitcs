@@ -6,5 +6,5 @@ export default function Footer() {
       <small>&copy; Copyright by Voro. All right reserved.</small>
       <small>Last checked limits: 17 days ago</small>
     </footer>
-  );
+  ); 
 }
